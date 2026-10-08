@@ -1,0 +1,88 @@
+{
+  "mcpServers": {
+    "unityMCP": {
+      "command": "C:\\Users\\Muhammed_ali\\AppData\\Local\\Microsoft\\WinGet\\Packages\\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\\uvx.exe",
+      "args": [
+        "--offline",
+        "--from",
+        "mcpforunityserver==10.1.2",
+        "mcp-for-unity",
+        "--transport",
+        "stdio"
+      ]
+    },
+    "graphify": {
+      "command": "C:\\Users\\Muhammed_ali\\.local\\bin\\graphify-mcp.exe",
+      "args": [
+        "C:\\Users\\Muhammed_ali\\Desktop\\All_projects\\seasons_of_iron\\graphify-out\\graph.json"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    },
+    "Roblox_Studio": {
+      "command": "cmd.exe",
+      "args": [
+        "/c",
+        "cd /d %LOCALAPPDATA%\\Roblox && .\\mcp.bat"
+      ]
+    },
+    "kinocut": {
+      "command": "C:\\Users\\Muhammed_ali\\AppData\\Local\\Microsoft\\WinGet\\Packages\\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\\uvx.exe",
+      "args": [
+        "--from",
+        "kinocut==1.16.0",
+        "kino",
+        "--mcp"
+      ]
+    },
+    "blender": {
+      "command": "C:\\Users\\Muhammed_ali\\AppData\\Local\\Microsoft\\WinGet\\Packages\\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\\uvx.exe",
+      "args": [
+        "--python",
+        "3.12",
+        "mcp-for-blender"
+      ],
+      "env": {
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8",
+        "DISABLE_TELEMETRY": "true"
+      }
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@playwright/mcp@0.0.83",
+        "--viewport-size",
+        "1920x1080",
+        "--output-dir",
+        "C:\\Users\\Muhammed_ali\\Claude\\egitim_videolari\\kanit"
+      ]
+    },
+    "egitim-ses": {
+      "command": "C:\\Users\\Muhammed_ali\\AppData\\Local\\Microsoft\\WinGet\\Packages\\astral-sh.uv_Microsoft.Winget.Source_8wekyb3d8bbwe\\uvx.exe",
+      "args": [
+        "--from",
+        "BURAYA_PROJE_KLASORU\\Seri2\\mcp\\ses_mcp",
+        "egitim-ses-mcp"
+      ],
+      "env": {
+        "SES_CIKTI": "C:\\Users\\Muhammed_ali\\Claude\\egitim_videolari\\ses",
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8"
+      }
+    }
+  }
+}
