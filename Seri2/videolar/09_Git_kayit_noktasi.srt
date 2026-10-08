@@ -1,0 +1,55 @@
+1
+00:00:00,900 --> 00:00:14,248
+Dokuzuncu video: Git. Yapay zekâ hızlı çalışır; yanlış yaptığında da hızlı yapar. Bu yüzden projenin ilk işi, geri dönebileceğin bir kayıt noktasıdır.
+
+2
+00:00:14,948 --> 00:00:23,136
+Temmuz 2025'te bir yapay zekâ ajanı, kodu dondurma talimatına rağmen bir şirketin canlı veritabanını sildi.
+
+3
+00:00:23,336 --> 00:00:33,324
+Ajan geri almanın imkânsız olduğunu söyledi; yanlıştı, veri geri getirildi. Ders: bu tür iddiayı kendin kontrol et.
+
+4
+00:00:34,024 --> 00:00:41,972
+Ekim 2026'da bir geliştirici forumda anlattı: Cursor'un ajanı, klasör silme komutunu yanlış yazdı.
+
+5
+00:00:42,172 --> 00:00:48,536
+Kaynak kod, Git klasörü ve elle aldığı yedek aynı diskteydi; üçü birden gitti.
+
+6
+00:00:48,736 --> 00:00:55,892
+Yani Git tek başına yetmez: kayıt noktasının bir kopyası, ajanın ulaşamayacağı yerde olmalı.
+
+7
+00:00:56,592 --> 00:01:09,124
+Git, projenin zaman makinesidir. Her kayıt noktasına commit denir; bozulursa son iyi noktaya dönersin. Ama yalnızca kaydettiğin şeyi geri getirir.
+
+8
+00:01:09,824 --> 00:01:19,140
+Birinci kural: göreve başlamadan önce kayıt al. Yapay zekâya yaz: bu klasörde Git başlat ve ilk kayıt noktasını al.
+
+9
+00:01:19,340 --> 00:01:27,216
+İkinci kural: kaydı GitHub gibi uzak bir depoya da gönder. Disk gitse bile proje durur.
+
+10
+00:01:27,416 --> 00:01:34,212
+Üçüncü kural: silme ve sıfırlama komutlarını yapay zekâ ancak senin onayınla çalıştırsın.
+
+11
+00:01:34,912 --> 00:01:40,436
+Ekrandaki komutlardan birini görürsen dur ve hedef yolu kendin oku.
+
+12
+00:01:41,136 --> 00:01:58,012
+Dördüncü kural: parola ve anahtar Git'e girmez. GitGuardian'ın 2026 raporuna göre, yapay zekâ destekli commit'lerde sızıntı ortalamanın yaklaşık iki katı. Sızan anahtarı silmek yetmez; değiştirmen gerekir.
+
+13
+00:01:58,212 --> 00:02:06,424
+Beşinci kural: bozulunca yapay zekâyı durdur ve o diske yazma; son kayıt noktasına ve uzak depoya bak.
+
+14
+00:02:07,124 --> 00:02:17,040
+Özet: kayıt al, uzağa gönder, silme komutunu oku, anahtarı sakla. Sıradaki video: ne yapacağına göre doğru yol.
