@@ -69,7 +69,7 @@ Bu dosya `arac/senaryolar.py` içinden otomatik üretilir; düzeltme için o dos
 
 ## Video 11: Web sitesi yapıyorsan: yasal zorunluluklar
 
-~234 kelime, yaklaşık 1.9 dakika. Durum: yalnızca senaryo.
+~234 kelime, yaklaşık 1.9 dakika. Durum: **video üretildi**.
 
 1. On birinci video: yasal zorunluluklar. Yapay zekâ siteyi bir saatte yapar; yasal metinleri çoğu zaman sen istemedikçe düşünmez.
 2. Önce şunu bil: siteyi yapay zekânın yapmış olması cezayı değiştirmez; sorumlu site sahibidir. Örneklerde ceza, eksik metne kesiliyor.

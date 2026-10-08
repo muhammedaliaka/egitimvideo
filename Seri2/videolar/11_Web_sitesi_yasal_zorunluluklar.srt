@@ -1,0 +1,55 @@
+1
+00:00:00,900 --> 00:00:11,608
+On birinci video: yasal zorunluluklar. Yapay zekâ siteyi bir saatte yapar; yasal metinleri çoğu zaman sen istemedikçe düşünmez.
+
+2
+00:00:12,308 --> 00:00:23,712
+Önce şunu bil: siteyi yapay zekânın yapmış olması cezayı değiştirmez; sorumlu site sahibidir. Örneklerde ceza, eksik metne kesiliyor.
+
+3
+00:00:24,412 --> 00:00:34,736
+Türkiye'de ilk kural: kişisel veri topladığın her yerde aydınlatma metni; kim topluyor, ne amaçla, kime aktarılıyor, kullanıcının hakları ne.
+
+4
+00:00:35,436 --> 00:00:47,008
+Eksik bırakmanın 2026 cezası, kaynaklara göre 85.437 ile 1.709.200 lira arasında; her yıl yeniden değerleme oranıyla artıyor.
+
+5
+00:00:47,708 --> 00:00:58,296
+İkinci kural: çerezler. Zorunlu olmayan çerezlerde, yani analitik ve reklamda, çerez yerleşmeden önce açık rıza gerekir.
+
+6
+00:00:58,496 --> 00:01:08,676
+Kabul, reddet ve tercihler düğmeleri eşit görünmeli. “Siteyi kullanmaya devam ederek kabul etmiş sayılırsınız” rıza değildir.
+
+7
+00:01:08,876 --> 00:01:18,240
+Üçüncü kural: para alıyorsan, mesafeli satış sözleşmesi, ön bilgilendirme, cayma ve iade koşulları sitede yazılı olmalı.
+
+8
+00:01:18,440 --> 00:01:29,724
+Kendi alan adından satış yapıyorsan ETBİS kaydı gerekir. Reklam e-postası ya da SMS göndereceksen önce onay al ve İYS'ye kayıt ol.
+
+9
+00:01:30,424 --> 00:01:38,612
+Avrupa'dan ziyaretçin varsa GDPR devreye girer: tavan ceza yirmi milyon avro ya da yıllık cironun yüzde dördü.
+
+10
+00:01:38,812 --> 00:01:48,008
+2025'te Fransa'nın veri koruma kurumu, çerezler yüzünden Shein'e 150 milyon, Google'a 325 milyon avro kesti.
+
+11
+00:01:48,208 --> 00:01:56,300
+Küçük siteler de kurtulmadı: İspanya'da bir online mağaza, yetersiz gizlilik metni yüzünden 6.000 avro ödedi.
+
+12
+00:01:57,000 --> 00:02:09,004
+Yapay zekâya yaz: bu site hangi kişisel verileri topluyor? Türkiye ve Avrupa için hangi yasal metinler gerekir? Resmî kaynağı göster.
+
+13
+00:02:09,204 --> 00:02:20,416
+Metinleri yapay zekâ taslak olarak yazar; son hâlini bir hukukçu onaylamalı. Bu video bilgilendirme amaçlıdır, hukuki danışmanlık değildir.
+
+14
+00:02:21,116 --> 00:02:26,112
+Sıradaki video: mobil uygulama ve oyunlarda mağaza kuralları.
