@@ -1,0 +1,116 @@
+1
+00:00:00,300 --> 00:00:00,948
+Merhaba!
+
+2
+00:00:00,948 --> 00:00:09,618
+Bu videoyu hazırladık ama herkesin bilgisayarını göremiyoruz, o yüzden senin ekranın biraz farklı olabilir.
+
+3
+00:00:09,618 --> 00:00:14,965
+Henüz hiçbir MCP bağlı değilse, takıldığın yerde yapay zekâna sor.
+
+4
+00:00:14,965 --> 00:00:19,907
+Bu videoda Claude'a dosya erişimi ve komut erişimi vereceğiz.
+
+5
+00:00:20,807 --> 00:00:24,173
+Önce Ayarlar'ı aç; kısayolu Ctrl ve virgül.
+
+6
+00:00:24,173 --> 00:00:28,712
+Soldan Uzantılar'a gir ve Uzantılara göz at düğmesine bas.
+
+7
+00:00:29,612 --> 00:00:32,064
+Arama kutusuna filesystem yaz.
+
+8
+00:00:32,064 --> 00:00:36,478
+Anthropic'in Filesystem uzantısını aç ve Yükle'ye bas.
+
+9
+00:00:37,755 --> 00:00:41,557
+Kurulum bitince yapılandırma penceresi açılır.
+
+10
+00:00:41,557 --> 00:00:46,351
+Allowed Directories, Claude'un erişebileceği klasörlerdir.
+
+11
+00:00:46,351 --> 00:00:48,748
+Directory ekle düğmesine bas.
+
+12
+00:00:49,648 --> 00:00:55,957
+Dosya Gezgini'nde erişim vermek istediğin klasörü aç, yol çubuğuna tıkla ve yolu Ctrl C ile kopyala.
+
+13
+00:00:56,857 --> 00:01:00,278
+Yolu Ctrl V ile yapıştır ve Kaydet'e bas.
+
+14
+00:01:00,278 --> 00:01:04,951
+Yalnızca gereken klasörü ver; bütün diski vermek riskli.
+
+15
+00:01:05,851 --> 00:01:09,107
+Kaydedince uzantı Devre dışı görünür.
+
+16
+00:01:09,107 --> 00:01:11,219
+Anahtarı açıp Etkin yap.
+
+17
+00:01:12,119 --> 00:01:14,872
+Ayarlar'da Geliştirici bölümüne gir.
+
+18
+00:01:14,872 --> 00:01:19,918
+Yerel MCP sunucularında Filesystem Çalışıyor görünüyorsa bağlandı.
+
+19
+00:01:20,818 --> 00:01:25,519
+Şimdi komut erişimi için aynı yerde desktop yaz ve Desktop Commander'ı aç.
+
+20
+00:01:27,357 --> 00:01:28,507
+Yükle'ye bas.
+
+21
+00:01:28,507 --> 00:01:31,957
+Çıkan pencerede Install'a basıp onayla.
+
+22
+00:01:33,511 --> 00:01:37,254
+Kurulum birkaç saniye sürer; bitince uzantı Etkin görünür.
+
+23
+00:01:39,796 --> 00:01:45,700
+Kurulumdan hemen sonra Uzantı sunucusuna bağlanılamıyor uyarısı çıkabilir.
+
+24
+00:01:45,700 --> 00:01:50,327
+Bende birkaç saniye sonra kayboldu ve araç listesi açıldı.
+
+25
+00:01:50,327 --> 00:01:53,678
+Uyarı kalırsa uzantıyı kapatıp yeniden aç.
+
+26
+00:01:54,578 --> 00:02:00,066
+Araç izinleri bölümünde Claude'un hangi aracı ne zaman kullanabileceğini seçersin.
+
+27
+00:02:00,066 --> 00:02:05,756
+Desktop Commander komut çalıştırabilir; bu yüzden yalnızca güvendiğin uzantıları kur.
+
+28
+00:02:06,656 --> 00:02:11,156
+Artık Uzantılar listesinde hem Filesystem hem Desktop Commander var.
+
+29
+00:02:12,056 --> 00:02:16,427
+Sıradaki videoda Claude'a Blender MCP'sini araştırtıp kurduracağız.
+

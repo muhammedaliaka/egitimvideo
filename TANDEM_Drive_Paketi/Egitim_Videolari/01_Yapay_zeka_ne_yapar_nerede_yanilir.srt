@@ -1,0 +1,75 @@
+1
+00:00:01,200 --> 00:00:08,443
+Merhaba! Bu kısa seride, yapay zekâyla tek başına nasıl iş çıkaracağını öğreneceksin.
+
+2
+00:00:08,533 --> 00:00:12,813
+İlk konu: yapay zekâ neyi çok iyi yapar, nerede yanılır?
+
+3
+00:00:13,753 --> 00:00:23,695
+Kodu okur, açıklar ve değiştirir. Bir dosyayı anlamadıysan, “bu dosya ne yapıyor?” diye sorman yeterli.
+
+4
+00:00:23,785 --> 00:00:30,391
+MCP bağlantısıyla Roblox Studio'yu yönetir: oyunu başlatır, test eder, ekran görüntüsü alır.
+
+5
+00:00:30,481 --> 00:00:38,319
+Ölçerek hata bulur. TANDEM'de efektler engele değmeden önce çıkıyordu. Yapay zekâ nedenini ölçtü:
+
+6
+00:00:38,319 --> 00:00:44,578
+ekrandaki araç, sunucunun saniyenin beşte biri kadar gerisinde kalıyordu.
+
+7
+00:00:44,668 --> 00:00:49,916
+Sıkıcı işleri de hızla bitirir: belge, test, paket, hatta bu video.
+
+8
+00:00:50,856 --> 00:01:00,756
+Uydurabilir. Var olmayan bir dosya adı, bir Roblox özelliği ya da komut yazabilir. Buna halüsinasyon denir.
+
+9
+00:01:00,846 --> 00:01:07,853
+Yanlışken bile çok emin konuşur. Emin ses tonu, doğru olduğu anlamına gelmez.
+
+10
+00:01:07,943 --> 00:01:13,436
+Denemeden “çalışmalı” diyebilir. Çalıştırıp görmediği şeye güvenme.
+
+11
+00:01:13,526 --> 00:01:19,973
+Uzun sohbette baştaki kuralları unutabilir. Önemli kararları dosyaya yazdır.
+
+12
+00:01:20,063 --> 00:01:27,251
+Bir web sayfasındaki ya da dosyadaki yazıyı komut sanabilir. Komutu yalnızca sen verirsin.
+
+13
+00:01:28,191 --> 00:01:36,894
+Gerçek bir örnek. Proje sahibinin bilgisayarında yapay zekâ, VPN'i hiçbir projenin başlatmadığını söyledi.
+
+14
+00:01:36,984 --> 00:01:46,061
+Yanlıştı. Akım projesi her açılışta VPN'i başlatıyordu. Kanıt aranınca bulundu ve düzeltildi.
+
+15
+00:01:47,001 --> 00:01:54,346
+Altın kural: güven ama doğrula. Önemli her cevapta şunu sor: bunu nasıl doğruladın?
+
+16
+00:01:54,436 --> 00:02:00,550
+İyi bir cevap kanıtını etiketler. Doğrulandı: çalıştırdım ve gördüm.
+
+17
+00:02:00,640 --> 00:02:03,702
+Belgeye göre: resmî kaynakta yazıyor.
+
+18
+00:02:03,792 --> 00:02:09,782
+Tahmin: kanıt yok. Tahmin varsa, nasıl doğrulanacağını da sor.
+
+19
+00:02:10,722 --> 00:02:15,859
+Bir sonraki videoda, yapay zekâyı doğru düşündürmenin yollarını göreceğiz.

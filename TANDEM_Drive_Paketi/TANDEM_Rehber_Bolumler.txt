@@ -1,0 +1,13 @@
+BÖLÜMLER (YouTube/Drive açıklaması için)
+
+0:00 Giriş
+0:20 Claude'u kur
+0:44 Config dosyasını bul
+1:06 Studio'da MCP'yi aç
+1:42 Kodu düzelttir, kaydet
+2:17 Bağlantıyı doğrula
+2:51 Antigravity
+3:16 ChatGPT, Codex ve Git
+4:15 VS Code
+4:43 Kiro IDE
+5:22 Son test: tam yetki

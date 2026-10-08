@@ -1,0 +1,111 @@
+1
+00:00:01,200 --> 00:00:09,569
+Dördüncü video: yapay zekâyla video düzenleme. İlginç bir bilgi: izlediğin bu video da böyle yapıldı.
+
+2
+00:00:10,509 --> 00:00:14,674
+Önce senaryo yazıldı: her cümle ve ekranda ne görüneceği.
+
+3
+00:00:14,764 --> 00:00:22,475
+Sonra her cümle, Microsoft'un yapay sinir sesiyle okundu. Anahtar ya da hesap gerekmedi.
+
+4
+00:00:22,565 --> 00:00:26,996
+Ekranlar Python ile çizildi; yazılar cümleyle birlikte belirdi.
+
+5
+00:00:27,086 --> 00:00:32,962
+Son olarak ffmpeg; sesi, müziği ve görüntüyü tek dosyada birleştirdi.
+
+6
+00:00:33,052 --> 00:00:37,582
+Ama son adım her zaman insan: izle, hatayı bul, düzelttir.
+
+7
+00:00:38,522 --> 00:00:47,356
+ffmpeg: kesme, birleştirme ve ses ayarı yapan ücretsiz motor. Neredeyse her araç bunu kullanır.
+
+8
+00:00:47,446 --> 00:00:54,038
+Proje sahibinde video-editing skill'i kurulu: gerçek çekimi keser, yapılandırır, altyazı ekler.
+
+9
+00:00:54,128 --> 00:01:01,110
+Yine proje sahibinde kinocut adlı bir video MCP'si kurulu: kesme, altyazı ve kalite kontrolü yapar.
+
+10
+00:01:02,050 --> 00:01:10,022
+Remotion: videoyu React koduyla yazarsın. Eski MCP'si kalktı; resmî yöntem artık skill'ler.
+
+11
+00:01:10,112 --> 00:01:23,610
+Hyperframes: videoyu HTML ile yazarsın. HeyGen'in açık kaynak aracı, Apache 2.0 lisanslı. Proje sahibinde kuruldu ve bir örnek video üretildi.
+
+12
+00:01:24,550 --> 00:01:30,395
+DaVinci Resolve'u yapay zekâya bağlayan açık kaynak bir MCP var; MIT lisanslı.
+
+13
+00:01:30,485 --> 00:01:39,093
+Dışarıdan tam kontrol için ücretli Studio sürümü gerekir. Ücretsiz sürümde komutlar program içinden bağlanır.
+
+14
+00:01:39,183 --> 00:01:45,076
+Bu ekipte DaVinci kurulu değil. İstersen kendi bilgisayarında dene.
+
+15
+00:01:46,016 --> 00:01:52,464
+Kendi çekiminden video yapmak için önce ekranını kaydet. OBS ücretsizdir.
+
+16
+00:01:52,554 --> 00:01:55,763
+Kaydı yapay zekâya ver ve ne istediğini söyle.
+
+17
+00:01:55,853 --> 00:01:58,336
+Önce kısa bir taslak çıkarsın.
+
+18
+00:01:58,426 --> 00:02:02,105
+Sen izle ve dakika, saniye vererek not al.
+
+19
+00:02:02,195 --> 00:02:08,737
+Notlara göre son sürümü çıkarsın. Ekibin MCP videoları da tam böyle yapıldı.
+
+20
+00:02:09,677 --> 00:02:13,677
+Örnek istek: kayıttaki sessiz ve bekleme yerlerini kes,
+
+21
+00:02:13,767 --> 00:02:17,993
+tıklanan yerleri yakınlaştır, her adıma Türkçe altyazı ekle,
+
+22
+00:02:18,083 --> 00:02:24,790
+e-posta ve parola görünen yerleri bulanıklaştır. Önce bir dakikalık taslak çıkar.
+
+23
+00:02:25,730 --> 00:02:33,681
+Yapay zekâ videoyu insan gibi baştan sona izleyemez; kareleri örnekler. Son kontrol sende.
+
+24
+00:02:33,771 --> 00:02:37,464
+Kayıtta parola, e-posta ya da anahtar görünmesin.
+
+25
+00:02:37,554 --> 00:02:40,516
+Müzik ve görüntünün telif hakkına dikkat et.
+
+26
+00:02:40,606 --> 00:02:45,977
+Remotion üç çalışana kadar ücretsiz; daha büyük kârlı şirketler lisans almalı.
+
+27
+00:02:46,067 --> 00:02:50,253
+Araç ve skill'i kurmadan önce resmî kaynağını ve komutunu oku.
+
+28
+00:02:51,193 --> 00:02:55,242
+Sıradaki video: MCP ve skill'leri kendine göre kurmak.

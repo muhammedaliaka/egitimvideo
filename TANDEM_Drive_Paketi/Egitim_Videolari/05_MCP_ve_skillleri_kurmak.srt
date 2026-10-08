@@ -1,0 +1,79 @@
+1
+00:00:01,200 --> 00:00:09,724
+Beşinci video: yapay zekâyı kendine göre kurmak. Üç parça var: kural dosyası, skill ve MCP.
+
+2
+00:00:10,664 --> 00:00:22,318
+Kural dosyası, projenin kuralları. Yapay zekâ her oturumda onu baştan okur. Adı araca göre değişir: CLAUDE.md ya da AGENTS.md gibi.
+
+3
+00:00:22,318 --> 00:00:26,770
+Hangisini okuduğunu yapay zekâya sorabilirsin.
+
+4
+00:00:26,860 --> 00:00:30,257
+Skill, gerektiğinde açılan talimat kitabıdır.
+
+5
+00:00:30,347 --> 00:00:36,742
+MCP ise yapay zekânın elleridir: Studio'yu, tarayıcıyı ya da GitHub'ı kullanmasını sağlar.
+
+6
+00:00:37,682 --> 00:00:50,040
+Claude Code'da kendi skill'ini yazmak kolay. Proje klasöründe şu yolda bir dosya açarsın. Skill'i olmayan araçlarda aynı metni kural dosyasına yazarsın.
+
+7
+00:00:50,130 --> 00:00:58,520
+İlk satırlarda ad ve açıklama var. Yapay zekâ, açıklamaya bakarak skill'i ne zaman açacağına karar verir.
+
+8
+00:00:58,610 --> 00:01:01,401
+Altına kuralları sade dille yazarsın.
+
+9
+00:01:01,491 --> 00:01:11,781
+Bir püf noktası: skill'e, yüklendiğini kanıtlayan bir ilk satır yazdır. TANDEM skill'i bunun için “TANDEM yönergesi yüklendi” diye başlar.
+
+10
+00:01:12,721 --> 00:01:18,056
+Yapay zekâ, açtığın proje klasöründe çalışır ve oradaki dosyalara erişir.
+
+11
+00:01:18,146 --> 00:01:28,439
+Başka bir klasör gerekiyorsa, onu da ekleyebilirsin. Claude Desktop'ta bunu Filesystem uzantısı yapar; kurulumunu ayrı videoda gösterdik.
+
+12
+00:01:28,529 --> 00:01:35,473
+Ama bütün diske geniş izin verme. İndirilenler ve masaüstünde özel dosyalar olabilir.
+
+13
+00:01:35,563 --> 00:01:40,948
+Yapay zekâ bir komut için izin istediğinde, ne yapacağını oku, sonra onayla.
+
+14
+00:01:41,888 --> 00:01:47,272
+Tanımadığın bir MCP'yi kurma. MCP bilgisayarında işlem yapabilir.
+
+15
+00:01:47,272 --> 00:01:56,495
+Studio MCP'si oyununu değiştirir, Desktop Commander gibi güçlü bir MCP ise senin yetkinle komut çalıştırır.
+
+16
+00:01:56,585 --> 00:02:03,918
+Parola ve anahtarları sohbete yazma. Gerekirse .env dosyasında tut ve Git'e koyma.
+
+17
+00:02:04,008 --> 00:02:11,959
+MCP'yi resmî kaynaktan kur. Roblox Studio MCP kurulumunu ilk rehber videoda göstermiştik.
+
+18
+00:02:12,899 --> 00:02:17,068
+En kolay yol: yapay zekâdan kendi kurulumunu yapmasını iste.
+
+19
+00:02:17,158 --> 00:02:21,383
+Bunu kural dosyasına eklesin ve ne eklediğini sana göstersin.
+
+20
+00:02:22,323 --> 00:02:26,084
+Son video: projeyi birlikte nasıl sürdüreceğiniz.

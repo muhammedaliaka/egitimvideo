@@ -1,0 +1,79 @@
+1
+00:00:01,200 --> 00:00:05,235
+Üçüncü video: kodundaki güvenlik açıklarını bulan skill'ler.
+
+2
+00:00:06,175 --> 00:00:19,066
+Skill bir talimat kitabıdır. Yapay zekâ gerektiğinde açar ve içindeki adımları sırayla uygular. Skill desteği araca göre değişir; Claude Code'da klasörü böyledir.
+
+3
+00:00:20,006 --> 00:00:30,653
+Bunlar proje sahibinin bilgisayarında kurulu. Sende yoksa sorun değil; aynı kontrolü talimat metniyle de yaptırabilirsin. security-review:
+
+4
+00:00:30,653 --> 00:00:36,182
+kullanıcı girdisi, gizli anahtar ve yetki konularında kodu inceler.
+
+5
+00:00:36,272 --> 00:00:42,377
+security-reviewer ajanı: en yaygın on web açığını, enjeksiyonu ve sızan anahtarları arar.
+
+6
+00:00:42,467 --> 00:00:49,558
+cso, yani güvenlik şefi modu: tehdit modeli çıkarır, bağımlılıkları ve geçmişte sızmış sırları tarar.
+
+7
+00:00:49,648 --> 00:00:56,247
+security-bounty-hunter: gürültüye değil, dışarıdan gerçekten sömürülebilen açıklara odaklanır.
+
+8
+00:00:56,337 --> 00:01:02,436
+security-scan: yapay zekânın kendi ayarlarını, MCP bağlantılarını ve hook'ları tarar.
+
+9
+00:01:03,376 --> 00:01:12,706
+Bunlar iki açık kaynak paketten geliyor: ECC ve gstack. Kurmadan önce yapay zekâya paketi okutup ne yaptığını özetlet.
+
+10
+00:01:13,646 --> 00:01:22,607
+Roblox'ta en büyük açık, oyuncunun bilgisayarına güvenmektir. Hileci, RemoteEvent'e istediği her şeyi yollayabilir.
+
+11
+00:01:22,697 --> 00:01:28,505
+O yüzden kararı hep sunucu verir: süre, kontrol noktası, ışınlanma ve bitiş.
+
+12
+00:01:28,595 --> 00:01:33,354
+Gelen her değerin türünü, aralığını ve ne sıklıkla geldiğini kontrol et.
+
+13
+00:01:33,444 --> 00:01:39,510
+Ödül ve kayıt kararını da sunucu verir. İstemci yalnızca istek yollar.
+
+14
+00:01:40,450 --> 00:01:50,826
+Örnek bir istek şöyle. Skill kuruluysa adını yazarsın; kurulu değilse, yapay zekâya kodu bir saldırgan gibi incelemesini söylemen yeter.
+
+15
+00:01:50,916 --> 00:01:56,022
+Her bulgu için dosya ve satırı, nasıl sömürüleceğini ve düzeltmesini iste.
+
+16
+00:01:56,112 --> 00:01:59,633
+Emin olmadıklarını ayrıca işaretlemesini de iste.
+
+17
+00:02:00,573 --> 00:02:05,745
+Skill de yanılabilir. Her bulguyu Studio'da kendin dene.
+
+18
+00:02:05,835 --> 00:02:12,801
+Yalnızca kendi projeni tara. Başkasının oyununda açık denemek yasak ve etik değil.
+
+19
+00:02:12,891 --> 00:02:18,583
+Yabancı bir skill'i kurmadan önce oku: skill, bilgisayarında komut çalıştırabilir.
+
+20
+00:02:19,523 --> 00:02:23,124
+Sıradaki video: yapay zekâyla video düzenleme.

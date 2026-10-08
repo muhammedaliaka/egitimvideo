@@ -1,0 +1,104 @@
+1
+00:00:00,300 --> 00:00:00,989
+Merhaba!
+
+2
+00:00:00,989 --> 00:00:06,239
+Bu videoda Claude'a Blender MCP'sini araştırtıp kurduracağız.
+
+3
+00:00:06,239 --> 00:00:11,318
+Bunun için önceki videodaki dosya ve komut erişimi gerekir.
+
+4
+00:00:11,318 --> 00:00:18,118
+Ekranın bizimkinden farklıysa ya da hiçbir MCP bağlı değilse, yapay zekâna sor.
+
+5
+00:00:19,018 --> 00:00:27,358
+Claude'a şunu yaz: en uygun Blender MCP'sini araştır ve ardından kurulumları yap ve Claude Desktop config dosyasına yaz.
+
+6
+00:00:27,358 --> 00:00:32,014
+Bunu yapabilsin diye ilk videoda ona dosya ve komut erişimi verdik.
+
+7
+00:00:32,914 --> 00:00:37,500
+Claude önce GitHub'da en uygun Blender MCP'sini araştırır.
+
+8
+00:00:37,500 --> 00:00:47,462
+Sonra uv ve Python'u kontrol eder, config dosyasının yedeğini alır, Blender eklentisini kurar ve ayarı config dosyasına yazar.
+
+9
+00:00:47,462 --> 00:00:48,806
+Sen sadece bekle.
+
+10
+00:00:50,247 --> 00:00:59,602
+Bitince Claude ne yaptığını anlatır ve senin yapacaklarını sıralar: Claude'u kapatıp yeniden aç, Blender'da eklentiyi etkinleştir, sonra sunucuyu başlat.
+
+11
+00:01:01,247 --> 00:01:07,361
+Önce Claude'u tamamen kapat: Dosya menüsünde en alttaki Çık düğmesine bas, sonra yeniden aç.
+
+12
+00:01:08,261 --> 00:01:09,737
+Sonra Blender'ı aç.
+
+13
+00:01:10,637 --> 00:01:15,449
+Blender'da Düzen menüsünden Tercihler'i, sonra Eklentiler sekmesini aç.
+
+14
+00:01:16,349 --> 00:01:19,973
+Listede MCP for Blender'ı bul ve kutusunu işaretle.
+
+15
+00:01:20,873 --> 00:01:26,362
+N tuşuyla yan paneli aç ve MCP for Blender sekmesine gir.
+
+16
+00:01:26,362 --> 00:01:31,177
+Connected on port 9876 yazıyorsa Blender hazırdır.
+
+17
+00:01:31,177 --> 00:01:35,222
+Yazmıyorsa Start MCP Server düğmesine bas.
+
+18
+00:01:36,122 --> 00:01:40,164
+Claude'da Ayarlar, Geliştirici bölümünde blender Çalışıyor görünmeli.
+
+19
+00:01:41,122 --> 00:01:45,654
+Şimdi dene: Blender'da 5 saniyelik araba animasyonu yap, diye yaz.
+
+20
+00:01:46,962 --> 00:01:50,853
+İlk kullanımda Claude, Blender aracı için izin ister.
+
+21
+00:01:50,853 --> 00:01:55,626
+Bir kez izin ver ya da her zaman izin ver düğmesine basabilirsin.
+
+22
+00:01:56,526 --> 00:02:02,840
+Claude sahneyi adım adım kurar: araba gövdesi, tekerlekler, yol, ağaçlar, kamera ve hareket.
+
+23
+00:02:05,226 --> 00:02:09,844
+Blender'a dönünce sahne hazır: yol, ağaçlar, lambalar ve bir araba.
+
+24
+00:02:15,995 --> 00:02:19,775
+Zaman çizelgesinde gezindiğinde araba yol boyunca ilerliyor.
+
+25
+00:02:22,995 --> 00:02:24,229
+Hepsi bu kadar.
+
+26
+00:02:24,229 --> 00:02:29,826
+Artık Claude, Blender'da senin için sahne kurup animasyon yapabilir.
+
